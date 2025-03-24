@@ -23,13 +23,13 @@ This project is a machine learning model that predicts passenger survival on the
 🚀 Steps to Run the Project
 
 Clone the Repository
-'''
+```
 git clone https://github.com/raghavendrashande/growthLinkTask
-'''
+```
 Run the Model
-'''
+```
 python titanicSurvivalPrediction.ipynb
-'''
+```
 Evaluate Performance
 
 - The accuracy score will be displayed after training.
